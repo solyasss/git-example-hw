@@ -6,7 +6,7 @@ namespace hw
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("10");
+            Console.WriteLine("1");
         }
     }
 }
