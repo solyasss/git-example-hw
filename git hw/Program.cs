@@ -6,7 +6,8 @@ namespace hw
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("10");
+            Console.WriteLine("New change from Developer1.");
+
         }
     }
 }
